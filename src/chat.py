@@ -14,7 +14,7 @@ print(os.getenv("PGVECTOR_CONNECTION_STRING"))
 
 
 def main():
-    print("Sistema de Busca Semântica em PDF")
+    print("🤖 Sistema de Busca Semântica em PDF")
     print("=" * 50)
     print("Digite suas perguntas sobre o documento PDF ingerido.")
     print("Digite 'sair' ou 'exit' para encerrar.")
